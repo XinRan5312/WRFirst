@@ -14,3 +14,6 @@ http://blog.csdn.net/lmj623565791/article/details/37992017 --fragment使用大�
 http://www.oschina.net/news/60157/android-performance-patterns ---android内存使用分析
 
 http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/ --AndroidStudio建立项目灵活使用gradle配置详解
+
+
+http://my.oschina.net/aibenben/blog?catalog=151088 //androidstudio打包和android小知识总结
