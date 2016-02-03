@@ -19,3 +19,5 @@ http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/ --AndroidStu
 http://my.oschina.net/aibenben/blog?catalog=151088 //androidstudio打包和android小知识总结
 
 http://hukai.me/android-training-course-in-chinese/connectivity/efficient-downloads/efficient-network-access.html //android基础知识介绍
+
+http://www.oschina.net/p/android-os  //开源中国
