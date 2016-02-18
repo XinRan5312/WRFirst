@@ -21,3 +21,7 @@ http://my.oschina.net/aibenben/blog?catalog=151088 //androidstudio打包和andro
 http://hukai.me/android-training-course-in-chinese/connectivity/efficient-downloads/efficient-network-access.html //android基础知识介绍
 
 http://www.oschina.net/p/android-os  //开源中国
+
+http://www.mobile-open.com/2015/40630.html    ---几种常见浮动操作按钮的优缺点
+
+http://download.csdn.net/download/ddsuper/5891341  --全局按钮的实现
