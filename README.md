@@ -25,3 +25,14 @@ http://www.oschina.net/p/android-os  //开源中国
 http://www.mobile-open.com/2015/40630.html    ---几种常见浮动操作按钮的优缺点
 
 http://download.csdn.net/download/ddsuper/5891341  --全局按钮的实现
+
+http://wiki.jikexueyuan.com/project/react-native/    --Facebook 在 React.js Conf 2015 大会上推出了基于 JavaScript 的开源框架 React Native，本中文教程翻译自 React Native 官方文档。
+
+React Native 结合了 Web 应用和 Native 应用的优势，可以使用 JavaScript 来开发 iOS 和 Android 原生应用。在 JavaScript 中用 React 抽象操作系统原生的 UI 组件，代替 DOM 元素来渲染等。
+
+React Native 使你能够使用基于 JavaScript 和 React 一致的开发体验在本地平台上构建世界一流的应用程序体验。React Native 把重点放在所有开发人员关心的平台的开发效率上——开发者只需学习一种语言就能轻易为任何平台高效地编写代码。Facebook 在多个应用程序产品中使用了 React Native，并将继续为 React Native 投资。
+
+加入React Native QQ 交流群：220997090 和大家一起交流学习 React Native
+
+http://blog.csdn.net/jwzhangjie/article/details/12995219 ---PJSIP是一个开源的SIP协议库，它实现了SIP、SDP、RTP、STUN、TURN和ICE。PJSIP作为基于SIP的一个多媒体通信框架提供了非常清晰的API，以及NAT穿越的功能。PJSIP具有非常好的移植性，几乎支持现今所有系统：从桌面系统、嵌入式系统到智能手机。
+PJSIP同时支持语音、视频、状态呈现和即时通讯。PJSIP具有非常完善的文档，对开发者非常友好。
