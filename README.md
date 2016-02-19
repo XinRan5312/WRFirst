@@ -25,7 +25,7 @@ http://www.oschina.net/p/android-os  //开源中国
 http://www.mobile-open.com/2015/40630.html    ---几种常见浮动操作按钮的优缺点
 
 http://download.csdn.net/download/ddsuper/5891341  --全局按钮的实现
-
+http://www.tuicool.com/articles/zaInUbA  --整理了一份React-Native学习指南
 http://wiki.jikexueyuan.com/project/react-native/    --Facebook 在 React.js Conf 2015 大会上推出了基于 JavaScript 的开源框架 React Native，本中文教程翻译自 React Native 官方文档。
 
 React Native 结合了 Web 应用和 Native 应用的优势，可以使用 JavaScript 来开发 iOS 和 Android 原生应用。在 JavaScript 中用 React 抽象操作系统原生的 UI 组件，代替 DOM 元素来渲染等。
