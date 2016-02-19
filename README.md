@@ -36,3 +36,5 @@ React Native 使你能够使用基于 JavaScript 和 React 一致的开发体验
 
 http://blog.csdn.net/jwzhangjie/article/details/12995219 ---PJSIP是一个开源的SIP协议库，它实现了SIP、SDP、RTP、STUN、TURN和ICE。PJSIP作为基于SIP的一个多媒体通信框架提供了非常清晰的API，以及NAT穿越的功能。PJSIP具有非常好的移植性，几乎支持现今所有系统：从桌面系统、嵌入式系统到智能手机。
 PJSIP同时支持语音、视频、状态呈现和即时通讯。PJSIP具有非常完善的文档，对开发者非常友好。
+
+https://github.com/ecomfe---百度前端组
