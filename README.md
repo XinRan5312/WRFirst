@@ -3,6 +3,12 @@ my first github project
 I am the son of master
 1:http://blog.csdn.net/singwhatiwanna
 
+adb shell monkey -p com.Qunar --throttle 1000 --ignore-crashes --ignore-timeouts --ignore-security-exceptions --ignore-native-crashes --monitor-native-crashes  -v -v -v --pct-touch 50 --pct-motion 15 --pct-trackball 1 --pct-syskeys 15 --pct-anyevent 19 100000 >D:/myspace/monkey.txt
+《-s：指定产生随机事件种子值，相同的种子值产生相同的事件序列。如： -s 200
+--throttle：每个事件结束后的间隔时间——降低系统的压力（如不指定，系统会尽快的发送事件序列）。如：--throttle 100
+--pct-touch：指定触摸事件的百分比，如：--pct-touch 5% ， 相关的还有以下option：
+--pct-motion <percent> （滑动事件）、 --pct-trackball <percent> （轨迹球事件） 、 --pct-nav <percent> （导航事件 up/down/left/right）、 --pct-majornav <percent> (主要导航事件 back key 、 menu key)、 --pct-syskeys <percent> (系统按键事件 Home 、Back 、startCall 、 endCall 、 volumeControl)、 --pct-appswitch <percent> （activity之间的切换）、 --pct-anyevent <percent>（任意事件）
+》
 2:http://blog.csdn.net/details/
 
 3:http://blog.csdn.net/zhangerqing   //Java知识大神
