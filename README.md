@@ -12,7 +12,7 @@ adb shell monkey -p com.Qunar --throttle 1000 --ignore-crashes --ignore-timeouts
 2:http://blog.csdn.net/details/
 
 3:http://blog.csdn.net/zhangerqing   //Java知识大神
-
+https://github.com/h5bp  --html5_web大全
 http://blog.csdn.net/linghu_java/article/details/7847269  --app手机抓包
 http://blog.csdn.net/ghevinn/article/details/28890439  --python 脚本
 http://blog.csdn.net/yanbober   --android 一个牛逼人的博客
