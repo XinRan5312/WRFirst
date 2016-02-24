@@ -2,7 +2,8 @@
 my first github project
 I am the son of master
 1:http://blog.csdn.net/singwhatiwanna
-
+1：http://www.tuicool.com/ --常用技术网站  推酷
+2：http://www.devstore.cn/ --DevStore
 adb shell monkey -p com.Qunar --throttle 1000 --ignore-crashes --ignore-timeouts --ignore-security-exceptions --ignore-native-crashes --monitor-native-crashes  -v -v -v --pct-touch 50 --pct-motion 15 --pct-trackball 1 --pct-syskeys 15 --pct-anyevent 19 100000 >D:/myspace/monkey.txt
 《-s：指定产生随机事件种子值，相同的种子值产生相同的事件序列。如： -s 200
 --throttle：每个事件结束后的间隔时间——降低系统的压力（如不指定，系统会尽快的发送事件序列）。如：--throttle 100
