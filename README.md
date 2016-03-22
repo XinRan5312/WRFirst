@@ -1,6 +1,7 @@
 # WRFirst
 my first github project
-I am the son of master
+#：http://www.jianshu.com/p/b56cab2cf4a8   22个值得收藏的Android开源代码-UI篇
+#：http://www.jianshu.com/p/717b80ba8bc1  [干货]30条Android开发建议
 1:http://blog.csdn.net/singwhatiwanna
 1：http://www.tuicool.com/ --常用技术网站  推酷
 2：http://www.devstore.cn/ --DevStore
