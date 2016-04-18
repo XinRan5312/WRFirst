@@ -1,5 +1,6 @@
 # WRFirst
 my first github project
+#http://www.starming.com/index.php?v=index&view=91    检测iOS的APP性能的一些方法
 #：http://www.jianshu.com/p/b56cab2cf4a8   22个值得收藏的Android开源代码-UI篇
 #：http://www.jianshu.com/p/717b80ba8bc1  [干货]30条Android开发建议
 1:http://blog.csdn.net/singwhatiwanna
