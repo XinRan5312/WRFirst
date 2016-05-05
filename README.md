@@ -1,5 +1,6 @@
 # WRFirst
 my first github project
+# http://m.2cto.com/ 一个牛奔的技术论坛
 # http://www.csdn.net/article/1970-01-01/2825787   ReactNative 开发环境配置
 # http://www.lcode.org/category/react-native-zong/react-native-source-code/   GitHub上牛奔的Rectnative  开源代码
 #http://www.starming.com/index.php?v=index&view=91    检测iOS的APP性能的一些方法
