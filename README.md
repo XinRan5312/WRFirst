@@ -149,3 +149,63 @@ https://www.jiguang.cn/push
 http://m.blog.csdn.net/article/details?id=10163627
 http://m.blog.csdn.net/article/details?id=49124413
 http://note.youdao.com/share/index.html?id=8b59a4b8e99a8eabf066af9ab6fd9fa7&type=note#/
+
+Android 各个版本的对应
+Version	Level	Name
+1.6	
+	Donut（油炸圈饼）
+2.1	API 7	Eclair（一种指型小饼（糖霜衣，乳酪馅））
+2.2.3	API 8	Froyo（一种酸奶制成的甜品）
+2.3.1	API 9	Gingerbread（姜饼，姜味饼干）
+2.3.3	API 10	Gingerbread
+2.3.6	
+	Gingerbread
+2.3.7	
+	Gingerbread
+3.0	API 11	Honeycomb（蜂窝、蜂巢）
+3.1	API 12	Honeycomb
+3.2	API 13	Honeycomb
+4.0	API 14	IceCreamSandwich（冰激凌三明治）
+4.0.3	API 15	IceCreamSandwich
+4.0.4	
+	IceCreamSandwich
+4.1.1	
+	JellyBean（豆形软糖的一种）
+4.1.2	API 16	JellyBean
+4.2	
+	JellyBean
+4.2.2	API 17	JellyBean
+4.3	
+	JellyBean
+4.3.1	API 18	JellyBean
+4.4	
+	KitKat（奇巧维化巧克力）
+4.4.2	API 19	KitKat
+4.4.2_r1	
+	KitKat
+4.4.2_r2	
+	KitKat
+4.4.3_r1.1	
+	KitKat
+4.4.4_r1	
+	KitKat
+4.4W.2	API 20	KitKat Wear
+5.0.0_r2	
+	Lollipop（棒棒糖）
+5.0.1	API 21	Lollipop
+5.1.0_r1	
+	Lollipop
+5.1.1	API 22	Lollipop
+5.1.1_r6	
+	Lollipop
+6.0	API 23	Marshmallow（蜀葵糖浆，棉花软糖）
+6.0.0_r1	
+	Marshmallow
+6.0.0_r5	
+	Marshmallow
+6.0.1_r10	
+	Marshmallow
+N Preview	API 23	
+7.0	API 24	Nougat（牛轧糖，奶油果仁糖）
+7.0.0_r1	
+	Nougat
