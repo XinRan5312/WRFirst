@@ -1,4 +1,6 @@
 # WRFirst
+360加固APP防止反编译：http://jingyan.baidu.com/article/73c3ce281134eee50343d9a4.html
+                    http://jiagu.360.cn/
 my first github project
 # http://m.2cto.com/ 一个牛奔的技术论坛
 # http://mogu.io/category/mogu-mobile/   蘑菇街技术博客
